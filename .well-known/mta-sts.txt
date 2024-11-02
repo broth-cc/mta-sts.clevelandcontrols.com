@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: us-smtp-inbound-1.mimecast.com
 mx: us-smtp-inbound-2.mimecast.com
 mx: clevelandcontrols-com.mail.protection.outlook.com
